@@ -12,3 +12,9 @@ border-radius: 0px; }
 
 .bottom a:visited, .bottom a {
 text-decoration: none !important;}
+
+.top, .bottom, th {
+background: #cd3392 !important;
+color: #cd3392 !important;
+border: none !important;
+border-radius: 0px !important; }
